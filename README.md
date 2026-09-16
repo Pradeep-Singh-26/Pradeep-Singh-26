@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/pradeep--singh--baghel--26-/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/pradeep_singh_26/">
+  <a href="https://leetcode.com/u/pradeep_singh__26/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:ps20060826@gmail.com">
@@ -20,7 +20,7 @@
 
 I'm an **Aspiring Software Engineer** from **Indore, Madhya Pradesh**, currently pursuing **B.Tech in Electronics & Telecommunication Engineering at IET DAVV**.
 
-I enjoy building **real-world applications**, designing backend systems, solving algorithmic problems, and continuously exploring new technologies.
+I enjoy building real-world applications, designing backend systems, solving algorithmic problems, and continuously exploring new technologies.
 
 * 🎓 B.Tech in Electronics & Telecommunication Engineering @ **IET DAVV**
 * 💻 Full-Stack Development with the **MERN Stack**
@@ -35,37 +35,37 @@ I enjoy building **real-world applications**, designing backend systems, solving
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,go,python,html,css" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
-### ⚙️ Backend
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,go" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
 
-### 🔧 Tools
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=postman,vscode,figma" />
@@ -79,7 +79,7 @@ I enjoy building **real-world applications**, designing backend systems, solving
 
 **MERN Stack • React • Node.js • Express • MongoDB • JWT • Cloudinary**
 
-StudyNotion is a **production-style EdTech platform** designed around Student, Instructor and Admin workflows.
+A production-style EdTech platform built around **Student, Instructor and Admin workflows**.
 
 ### ✨ Highlights
 
@@ -96,13 +96,9 @@ StudyNotion is a **production-style EdTech platform** designed around Student, I
 * 🗄️ MongoDB data modeling with Mongoose
 * 🚀 Deployment using Render & Vercel
 
-### 🧰 Built With
-
-`React` `Node.js` `Express.js` `MongoDB` `Mongoose` `JWT` `Cloudinary` `Nodemailer`
-
 <p>
   <a href="https://github.com/Pradeep-Singh-26/StudyNotion">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20StudyNotion%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -110,22 +106,28 @@ StudyNotion is a **production-style EdTech platform** designed around Student, I
 
 # 🧠 Problem Solving
 
-I regularly practice **Data Structures & Algorithms** and competitive programming to strengthen my problem-solving skills.
+I actively practice **Data Structures & Algorithms** and competitive programming.
 
 <p align="center">
-  <a href="https://leetcode.com/u/pradeep_singh_26/">
-    <img src="https://leetcard.jacoblin.cool/pradeep_singh_26?theme=dark&font=baloo&ext=contest" />
+  <a href="https://leetcode.com/u/pradeep_singh__26/">
+    <img src="https://leetcard.jacoblin.cool/pradeep_singh__26?theme=dark&font=baloo&ext=contest" />
   </a>
 </p>
 
 ### 🏆 Milestones
 
-| Achievement           | Details              |
-| --------------------- | -------------------- |
-| 🧩 Problems Solved    | **300+ LeetCode**    |
-| 🏆 Contest Rating     | **1636 Peak Rating** |
-| 🥇 Coding Competition | **WebSprint Winner** |
-| 🎓 College            | **IET DAVV, Indore** |
+| Achievement            | Details              |
+| ---------------------- | -------------------- |
+| 🧩 Problems Solved     | **300+ LeetCode**    |
+| 🏆 Peak Contest Rating | **1636**             |
+| 🥇 Coding Competition  | **WebSprint Winner** |
+| 🎓 College             | **IET DAVV, Indore** |
+
+<p align="center">
+  <a href="https://leetcode.com/u/pradeep_singh__26/">
+    <img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
 
 ---
 
@@ -162,21 +164,6 @@ Scalable System Design
 
 ---
 
-# 💡 What I Like Building
-
-```text
-🌐 Full-Stack Applications
-⚙️ RESTful APIs
-🗄️ Database-Driven Systems
-☁️ Cloud-Ready Applications
-🐳 Containerized Services
-🧠 Algorithmic Solutions
-```
-
-I'm particularly interested in understanding what happens **behind the UI** — from API architecture and database design to containerization, deployment and scalable backend systems.
-
----
-
 # 🏆 Achievements
 
 ### 🥇 WebSprint Coding Sprint Winner
@@ -199,19 +186,19 @@ Institute of Engineering & Technology, DAVV — Indore
 <p align="center">
 
 <a href="https://github.com/Pradeep-Singh-26">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/pradeep--singh--baghel--26-/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/pradeep_singh_26/">
-<img src="https://img.shields.io/badge/LeetCode-Follow-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://leetcode.com/u/pradeep_singh__26/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <a href="mailto:ps20060826@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
